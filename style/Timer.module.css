@@ -1,0 +1,15 @@
+.container {
+  margin: 0 auto;
+}
+
+.timerview {
+  display: flex;
+}
+
+.timebetween {
+  padding: 10px;
+}
+
+.btn {
+  margin: 10px;
+}

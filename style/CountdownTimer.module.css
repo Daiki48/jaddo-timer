@@ -1,0 +1,47 @@
+.container {
+  display: grid;
+}
+
+.timebetween {
+  padding: 10px;
+}
+
+.btn {
+  margin: 10px;
+}
+
+.processbtn {
+  margin: 6px;
+}
+
+.timesetmin {
+  margin: 6px;
+}
+
+.timesetsec {
+  margin: 6px;
+}
+
+.timerview {
+  font-family: monospace;
+  font-size: 3rem;
+  display: inline-block;
+  width: 2rem;
+  height: 3rem;
+}
+
+.manualinput {
+  display: flex;
+  margin: 6px;
+  padding: 4px;
+}
+
+.manualinput input {
+  text-align: right;
+  width: 60px;
+  height: 50px;
+}
+
+.manualinput p {
+  padding: 2px;
+}
