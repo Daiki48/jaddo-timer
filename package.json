@@ -6,6 +6,7 @@
   "scripts": {
     "dev": "vite",
     "build": "tsc && vite build",
+    "copy": "Copy-Item dist docs",
     "preview": "vite preview"
   },
   "dependencies": {
